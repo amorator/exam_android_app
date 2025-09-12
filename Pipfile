@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+kivy = ">=2.1.0"
+plyer = ">=2.1.0"
+pyjnius = "*"
+
+[dev-packages]
+buildozer = "==1.5.0"
+python-for-android = "==2024.1.21"
+cython = "==3.0.10"
+
+[requires]
+python_version = "3.8"

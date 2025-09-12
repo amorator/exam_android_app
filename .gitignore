@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.qodo/
+.venv/
+.buildozer/
+bin/
+*.apk
+*.log
+build_log.txt

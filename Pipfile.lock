@@ -1,0 +1,58 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "placeholder_hash"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "kivy": {
+            "hashes": [
+                "sha256:placeholder_kivy_hash"
+            ],
+            "version": ">=2.1.0"
+        },
+        "plyer": {
+            "hashes": [
+                "sha256:placeholder_plyer_hash"
+            ],
+            "version": ">=2.1.0"
+        },
+        "pyjnius": {
+            "hashes": [
+                "sha256:placeholder_pyjnius_hash"
+            ],
+            "version": "*"
+        }
+    },
+    "develop": {
+        "buildozer": {
+            "hashes": [
+                "sha256:placeholder_buildozer_hash"
+            ],
+            "version": "==1.5.0"
+        },
+        "cython": {
+            "hashes": [
+                "sha256:placeholder_cython_hash"
+            ],
+            "version": "==3.0.10"
+        },
+        "python-for-android": {
+            "hashes": [
+                "sha256:placeholder_p4a_hash"
+            ],
+            "version": "==2024.1.21"
+        }
+    }
+}
